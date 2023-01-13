@@ -1,4 +1,4 @@
-pipeline script kodu
+
 
 
 
